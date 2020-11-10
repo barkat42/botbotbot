@@ -1,13 +1,13 @@
-## REUZSC
+## qwertybot
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
 
 
-
-
-## CARA INSTALL
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+## CARA INSTAL
 # TERMUX
 ```bash
 > download termux
